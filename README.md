@@ -64,7 +64,7 @@ Examples of our 3D adversarial logo attack on different3D object meshes to fool 
 ### Prepare the dataset
 
 - Datasets and our prediction images can be found [here](https://drive.google.com/file/d/1CUC_Yy10sjGSvSG8wt-ToPtOJ_eEf8x-/view?usp=sharing).
-- Our pre-trained weights can be found [here](https://drive.google.com/file/d/1AeWOzhLUbf7XK4-bo-rtvcQ1VKO_bn30/view?usp=sharing).
+- Our pre-trained 3d adversarial logos can be found [here](https://drive.google.com/file/d/1AeWOzhLUbf7XK4-bo-rtvcQ1VKO_bn30/view?usp=sharing).
 
 Remark. After downloading them, put the data and weight under the `3D_Adversarial_Logo` folder.
 
