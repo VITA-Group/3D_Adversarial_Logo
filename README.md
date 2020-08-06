@@ -27,7 +27,7 @@ Examples of our 3D adversarial logo attack on different3D object meshes to fool 
 
 - Python 3
 
-- Pytorch 1.0.0
+- Pytorch 1.1.0
 
 - CUDA 9.2 (lower versions may work but were not tested)
 
