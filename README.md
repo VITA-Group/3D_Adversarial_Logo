@@ -165,6 +165,11 @@ Remark. After downloading them, put the data and weight under the `3D_Adversaria
 If you are use this code for you research, please cite our paper.
 
 ```
-TBD
+@article{chen2020can,
+  title={Can 3D Adversarial Logos Cloak Humans?},
+  author={Chen, Tianlong and Wang, Yi and Zhou, Jingyang and Liu, Sijia and Chang, Shiyu and Bajaj, Chandrajit and Wang, Zhangyang},
+  journal={arXiv preprint arXiv:2006.14655},
+  year={2020}
+}
 ```
 
