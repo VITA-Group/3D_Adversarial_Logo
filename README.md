@@ -5,7 +5,7 @@
 
 [Can 3D Adversarial Logos Clock Humans?]()
 
-Tianlong Chen\*, Yi Wang\*, Jingyang Zhou*, Sijia Liu, Shiyu Chang, Chandrajit Bajaj, Zhangyang Wang
+Yi Wang\*, Jingyang Zhou*, Tianlong Chen， Sijia Liu, Shiyu Chang, Chandrajit Bajaj, Zhangyang Wang
 
 
 
